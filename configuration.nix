@@ -124,8 +124,6 @@
       thunderbird
       joshuto
       gitkraken
-      woeusb
-      woeusb-ng
     ];
   };
 
