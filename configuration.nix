@@ -125,7 +125,7 @@
       joshuto
       gitkraken
       woeusb
-      woeus-ng
+      woeusb-ng
     ];
   };
 
