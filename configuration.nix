@@ -98,7 +98,6 @@
     description = "Wesley Pennock";
     extraGroups = [ "networkmanager" "wheel"];
     packages = with pkgs; [
-	    love
 	    appimage-run
 	    vlc
 	    nodejs
@@ -125,6 +124,8 @@
       thunderbird
       joshuto
       gitkraken
+      woeusb
+      woeus-ng
     ];
   };
 
